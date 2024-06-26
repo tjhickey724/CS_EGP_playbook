@@ -14,7 +14,7 @@ gitbook_version:  3.2.3
 
 url:              'https://cs-equitable-grading-practices.github.io'
 baseurl:          '/playbook'
-repository:       cs-equitable-grading-practices/playbook
+repository:       'https://github.com/cs-equitable-grading-practices/playbook'
 repository_tree:  main
 rss:              RSS
 
