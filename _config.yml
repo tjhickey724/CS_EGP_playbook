@@ -1,16 +1,19 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            EGP Playybook
+longtitle:        The Playbook of Equitable Grading Practices
+#author:           HE Tao
+email:            edwards@cs.vt.edu
 description: >
-  Build Jekyll site with the GitBook style.
+  The Playbook of Equitable Grading Practices, created by the corresponding
+  working group of SIGCSE Virtual 2024, and associated with the
+  CS Equitable Grading Practices project
+  (https://cs-equitable-grading-practices.github.io/).
 
-version:          1.0
+version:          0.0.1
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://cs-equitable-grading-practices.github.io'
+baseurl:          '/playbook'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -41,7 +44,7 @@ syntax_highlighter_style: colorful
 markdown_ext:             markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
-permalink:                /:categories/:year-:month-:day-:title:output_ext
+permalink:                none
 
 # Disqus comments
 # disqushandler:            sighingnow
