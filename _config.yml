@@ -14,6 +14,8 @@ gitbook_version:  3.2.3
 
 url:              'https://cs-equitable-grading-practices.github.io'
 baseurl:          '/playbook'
+repository:       cs-equitable-grading-practices/playbook
+repository_tree:  main
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
