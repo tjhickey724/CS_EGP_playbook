@@ -1,6 +1,6 @@
 remote_theme: jasongrimes/jekyll-chapterbook
 
-title:            EGP Playybook
+title:            EGP Playbook
 longtitle:        The Playbook of Equitable Grading Practices
 author:           SIGCSE Virtual 2024 Working Group
 email:            edwards@cs.vt.edu
@@ -91,7 +91,8 @@ sidebar_toc:
 # Show a link to edit each page on GitHub
 github_edit:
   enabled: true
-  base_url: https://github.com/cs-equitable-grading-practices/playbookbook/edit/main/
+  base_url: https://github.com/cs-equitable-grading-practices/playbooks/edit/main/
+
 
 # Custom CSS
 extra_css:
