@@ -9,6 +9,23 @@ here at some point. This should include instructions for how to edit
 on github, creating a pull request for review._
 
 
+## Markdown
+
+When editing page contents, we generally prefer to use **Markdown format**.
+This is a plain text markup notation that is quick to learn and easy
+to edit. For details, read:
+
++ [GitHub's "Getting Started" page on: Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
++ [GitHub's docs on writing Markdown for GitHub use](https://docs.github.com/en/get-started/writing-on-github)
++ [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
+
+Note that HTML content can be embedded in markdown files as well. And if you
+want to write vanilla HTML content for a new play instead of using markdown,
+you can convert the play template to HTML, keep the metadata section at the
+start, but write all the content using HTML markup and give the file a
+`.html` extension instead of `.md`.
+
+
 ## Discuss a Play
 
 _Placeholder: we want to write a short description about sharing
@@ -82,3 +99,12 @@ describe the sections that appear in each play:
 + **Community Discussion**: A "public comments" section where community
   members can share their own experiences, observations, questions, or
   perspectives on the play.
+
+## Advanced Features
+
+This book is written using [jekyll](https://jekyllrb.com/) and
+the [jekyll-chapterbook](https://github.com/jasongrimes/jekyll-chapterbook) theme.
+See the [jeykll-chapterbook README](https://github.com/jasongrimes/jekyll-chapterbook?tab=readme-ov-file) for details on some of the theme's
+more advanced features if you want to do something beyond basic markdown,
+such as including figures, linking to other plays, linking to references
+in the reference section, etc.
