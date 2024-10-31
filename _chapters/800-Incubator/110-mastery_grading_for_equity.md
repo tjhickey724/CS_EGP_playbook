@@ -24,7 +24,7 @@ Instructors may be interested in mastery grading when a course requires complex,
 
 Like other types of differentiated instruction, mastery grading can demand a high-level of individual attention and personalized learning plans, which may not be scalable in larger classes.
 
-The source discusses moving away from traditional grading practices like rewarding attendance, due dates, or class participation, since these primarily privilege students who know how to "do school". Mastery grading, of the kind discussed in the course, benefits students who can attain content mastery, even if they struggle to stay on track with the intended course schedule. However, students who struggle with basic executive tasks like meeting deadlines and setting goals are also likely to struggle with the type of independent learning that mastery grading emphasizes. Therefore, low-supervision mastery grading is likely a better fit for more experienced students.
+The source discusses moving away from traditional grading practices like rewarding attendance, due dates, or class participation, since these primarily privilege students who know how to "do school". Mastery grading, of the kind discussed in the source, benefits students who can eventually attain content mastery, even if they struggle to stay on track with the intended course schedule. However, students who struggle with basic executive tasks like meeting deadlines and setting goals are also likely to struggle with the type of independent learning that mastery grading emphasizes. Therefore, low-supervision mastery grading is likely a better fit for more experienced students.
 
 ## How to Implement
 
