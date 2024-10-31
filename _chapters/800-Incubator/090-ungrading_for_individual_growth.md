@@ -51,6 +51,8 @@ Here is a summary of recommendations included in the source:
 
 - Monitor and adjust instruction in response to each round of assessments.
 
+The authors implemented this strategy in a physics course using the Force Concept Inventory as their assessment instrument. Students grades were determined by scaling the improvement scores to a fixed range, taking into account the distribution of improvement scores across the class. The grading system has to account for topping out: students who are already close to the top score on the assessment have less room to improve and are rewarded for maintaining a high score even if their improvement is small in absolute terms.
+
 ## See Also
 
 _List any other related plays here as a bullet list of chapter links.
