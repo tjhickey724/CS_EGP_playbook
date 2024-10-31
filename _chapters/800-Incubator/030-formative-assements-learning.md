@@ -40,11 +40,11 @@ Allowing revisions and resubmissions may require additional effort on the part o
 
 ## How to Implement
 
-1)  Establish rules for HOW work - on-time first attempts, late first attempts, and  and revised work - will be submitted.
-2)  Establish a rubric or mechanism to help create consistency between various deliverables and their grades.
-3)  Identify if there conditions that must be met before revisions are allowed (Meeting with faculty or a TA, identifying how a submission has been changed, etc.)
-4)  Clearly explain rules to students.
-5)  Frequently encourage revisions.  [This may be a very new concept to students and they may need to be reminded it is an option].
+1.  Establish rules for HOW work - on-time first attempts, late first attempts, and  and revised work - will be submitted.
+2.  Establish a rubric or mechanism to help create consistency between various deliverables and their grades.
+3.  Identify if there conditions that must be met before revisions are allowed (Meeting with faculty or a TA, identifying how a submission has been changed, etc.)
+4.  Clearly explain rules to students.
+5.  Frequently encourage revisions.  [This may be a very new concept to students and they may need to be reminded it is an option].
 
 ## See Also
 
