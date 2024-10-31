@@ -14,6 +14,7 @@ Students take courses with varying degrees of prior experience.  Those who have 
 ## Solution
 
 Examples of formative assessments could include weekly labs, weekly quizzes, practice programs, and even certain exams. 
+
 Formative assessments can be repeated until students get them “right.”  This may  involve setting initial, recommended deadlines but allowing students to continue to work on assessments until the end of the semester.  Assignments can be submitted for an initial assessment and may have conditions in place before a redo/retake attempt is allowed.  However, all are understood to be for learning purposes and thus should be open for opportunities to further student learning by revisiting mistakes or improving progress.
 
 ## Applicability
@@ -30,6 +31,7 @@ Weighting Formative vs. Summative Assessment
 ## Source
 
 Source: Albert Lionelle, Sudipto Ghosh, Marcia Moraes, Tran Winick, and Lindsey Nielsen. 2023. A Flexible Formative/Summative Grading System for Large Courses. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023). Association for Computing Machinery, New York, NY, USA, 624–630. https://doi.org/10.1145/3545945.3569810
+
 Described by: Ben Schafer (ben.schafer@uni.edu)
 
 ## References
