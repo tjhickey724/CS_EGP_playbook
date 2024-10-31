@@ -1,6 +1,6 @@
 ---
 title: Ungrading by assessing individual growth
-slug: play-template
+slug: ungrading-for-individual-growth
 ---
 ## Intent
 
