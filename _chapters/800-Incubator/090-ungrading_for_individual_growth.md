@@ -14,10 +14,6 @@ Conventional assessment methods assume that students enter a course with roughly
 Standard assessment methods may not be applicable if students enter a course with unequal levels of preparation. Further, a ranking-oriented approach with failure as the punishment raises student anxiety, which harms engagement and shifts students' goals towards meeting grading expectations rather than learning.
 Some educators see traditional grading as reflecting a fundamentally capitalist orientation and would prefer to use an assessment approach that draws upon different values.
 
-_Concisely describe the problem or situation this play is intended to
-solve or address. Then remove this text._
-
-
 ## Solution
 
 There are a variety of plays that may fall under the "ungrading" category. In this one, assessment is based on individual student improvement over the course, as measured by pre- and post-evaluations.
@@ -64,14 +60,6 @@ Then remove this text._
 Source: Crogman, H. T., Eshun, K. O., Jackson, M., TrebeauCrogman, M. A., Joseph, E., Warner, L. C., & Erenso, D. B. (2023). Ungrading: The Case for Abandoning Institutionalized Assessment Protocols and Improving Pedagogical Strategies. Education Sciences, 13(11), 1091.
 
 Described by: Dan S. Myers, dmyers@rollins.edu 
-
-
-_Insert a reference to the publication, web page, or source where this play
-came from in the spot above. Be sure to add the source
-to {% include chapter-link.html slug="references" %} as well.
-Also, be sure to include your name and email in the "described by" slot,
-as the person who wrote this description.
-Then remove this text._
 
 
 ## References
