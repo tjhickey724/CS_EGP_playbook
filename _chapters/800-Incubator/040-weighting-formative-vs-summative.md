@@ -5,11 +5,11 @@ slug: weighting-formative-vs-summative
 
 ## Intent
 
-If grade activities are to be weighted to maintain grades in the 0-100% continuum, formative and summative assessments need to be weighted properly to reflect growth from different starting points.
+If graded activities are to be weighted to maintain grades in the 0-100% continuum, formative and summative assessments need to be weighted properly to reflect growth from different starting points.
 
 ## Problem
 
-A traditional grading system based on a 100-point scale provides 60 ways to fail and 41 ways to pass (based on the assumption that a student needs 60% or better to pass a course).  Unfortunately, when students come from different backgrounds, abilities, and resources, this system tends to hurt those who start further back.  Additionally, it heavily penalizes students for failures while learning making it difficult to earn “good” grades.  This discourages students to continue to improve and master topics over time if they do not master things the first time through.
+A traditional grading system based on a 100-point scale provides 60 ways to fail and 41 ways to pass (based on the assumption that a student needs 60% or better to pass a course).  Unfortunately, when students come from different backgrounds, abilities, and resources, this system can hurt those who start further back.  Additionally, it heavily penalizes students for early failures during the learning process, making it difficult to earn "good" grades.  Overall, this discourages students from continuing to improve and master topics over time if they do not succeed the first time.
 
 ## Solution
 
@@ -26,6 +26,10 @@ Many adopters of EGP switch their grading away from the 100-point scale when ass
 This technique is particularly applicable in environments where instructors wish to employ additional EGP practices, but are expected to report grades using a 100 point scale for institutional consistency.  By modifying how activity grades are weighted/combined a more equitable environment can be created. 
 
 ## How to Implement
+
+Create an overall grading scheme where at least 60% of the final grade comes from formative assessments (which should have flexible deadlines and opportunities for multiple submissions) [See Formative Assessments are for Learning].  
+
+Balance the remaining 40% among summative assessments.
 
  
 
