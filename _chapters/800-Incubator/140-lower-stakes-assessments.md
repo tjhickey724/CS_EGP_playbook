@@ -37,6 +37,8 @@ Then remove this text._
 
 Source: Anderson Trimm. 2023. "Mastery Grading in Secondary Mathematics." Presentation at the *Institute Day*. <https://digitalcommons.imsa.edu/cgi/viewcontent.cgi?article=1477&context=proflearningday>
 
+Source: Katzman, Shoshana & Hurst-Kennedy, Jennifer & Barrera, Alessandra & Talley, Jennell & Javazon, Elisabeth & Diaz, Mary & Anzovino, Mary. 2021. "The Effect of Specifications Grading on Students’ Learning and Attitudes in an Undergraduate-Level Cell Biology Course." Journal of Microbiology & Biology Education. 22. 10.1128/jmbe.00200-21. 
+
 Described by: [Kevin Lin](https://kevinl.info/)
 
 
