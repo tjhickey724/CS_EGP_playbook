@@ -15,9 +15,9 @@ In most proof-based courses, the core challenge is not merely to convey facts ab
 ## Solution
 
 TG is structured around several key elements to ensure students achieve proficiency in proof techniques, with an emphasis on binarity (objectives are binary or pass/fail),  product focused (objectives are stated in terms of the student’s work product), multiple chances (students are given multiple chances to achieve each objective), and transparency (the system is clear to students). 
-•	Binarity and product-focus are inherent in the system's structure, where each proof is graded based on whether it meets a set standard, making the evaluation straightforward and focused on mastering specific skills.
-•	At the per-proof level, the S/P/U (Satisfactory/Partial/Unsatisfactory) marking scheme provides multiple chances, allowing students to try again to demonstrate mastery on each proof. Additionally, because the technique objectives are common and fundamental, students have numerous opportunities to showcase their skills across the many proofs assigned throughout the semester. 
-•	Transparency is emphasized by the TG syllabus, which clearly outlines not only the expectations for students but also the course's overall goals. It provides a detailed list of skills students need to acquire, directly linking the grade to the student’s mastery of these skills, and clarifying the standards for assessment from the start of the term.
++Binarity and product-focus are inherent in the system's structure, where each proof is graded based on whether it meets a set standard, making the evaluation straightforward and focused on mastering specific skills.
++At the per-proof level, the S/P/U (Satisfactory/Partial/Unsatisfactory) marking scheme provides multiple chances, allowing students to try again to demonstrate mastery on each proof. Additionally, because the technique objectives are common and fundamental, students have numerous opportunities to showcase their skills across the many proofs assigned throughout the semester. 
++Transparency is emphasized by the TG syllabus, which clearly outlines not only the expectations for students but also the course's overall goals. It provides a detailed list of skills students need to acquire, directly linking the grade to the student’s mastery of these skills, and clarifying the standards for assessment from the start of the term.
 This transparent and structured approach ensures that students understand what they need to do to succeed, with multiple opportunities to demonstrate their competence.
 
 
