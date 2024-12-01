@@ -13,20 +13,21 @@ The Block Grading System, designed to ensure consistent grades across sections a
 ## Solution
 
 The key grading and assessment changes being implemented by the source to make the grading system more inclusive, equitable, and supportive of student growth, while reducing competition and fostering a sense of belonging, particularly for students from historically underrepresented groups in STEM.
-	+Mandatory Satisfactory/Unsatisfactory grading for certain courses with no letter grades and therefore eliminating curving of grades along with removal of midterm and final exams.
-	+Increasing transparency in grading expectations and computation, that include explicit and binding weighting systems to all assessment categories, and decrease the impact from the final exam
-	+Efforts to reducing disparities in student experiences across sections. For example, same faculty teaching two sections to make student experience more consistent.
-	+Shifting from high-stakes assessments toward formative and mastery-based grading, with a greater emphasis on student effort.
-	+Experimenting with different grading options (e.g., offering students a choice between traditional grading or alternative grading systems with less emphasis on exams).
-	+Continuing efforts to standardize in-class exams across sections to ensure more consistent experiences for students.
-	+Reformatting class sizes and structures, such as creating a large lecture with smaller sections, to improve consistency in student experiences.
-	+Participating in equity-focused initiatives, for example, joining an NSF-funded project to implement and investigate equity-focused changes in introductory math courses.
+  + Mandatory Satisfactory/Unsatisfactory grading for certain courses with no letter grades and therefore eliminating curving of grades along with removal of midterm and final exams.
+  + Increasing transparency in grading expectations and computation, which include explicit and binding weighting systems to all assessment categories, and decrease the impact of the final exam.
+  + Efforts to reduce disparities in student experiences across sections. For example, the same faculty teaches two sections to make the student experience more consistent.
+  + Shifting from high-stakes assessments toward formative and mastery-based grading, with a greater emphasis on student effort.
+  + Experimenting with different grading options (e.g., offering students a choice between traditional grading or alternative grading systems with less emphasis on exams).
+  + Continuing efforts to standardize in-class exams across sections to ensure more consistent experiences for students.
+  + Reformatting class sizes and structures, such as creating a large lecture with smaller sections, to improve consistency in student experiences.
+  + Participating in equity-focused initiatives, for example, joining an NSF-funded project to implement and investigate equity-focused changes in introductory math courses.
 
 
 
 ## Applicability
 
 The grading and assessment changes described work best in large multi-section courses with diverse student populations, such as introductory multi-section Calculus sequence courses. 
+
 It can also be implemented in STEM gatekeeping courses, where grading can impact students' decisions to continue their studies. For example, a mastery-based system can reduce dropout rates and stress.
 
 Tradeoffs to consider:
@@ -41,6 +42,7 @@ Scaling Challenges: These reforms may be easier to implement in smaller classes 
 ## How to Implement
 
 Implementing the described grading policy changes in a large, multi-section course, such as a Calculus sequence, requires a structured, step-by-step approach with collaboration from instructors, administrators, and teaching assistants. 
+
 The process, as noted by the source, is ongoing and incremental. Changes should be piloted gradually in a few sections or course levels (e.g., Calculus I), particularly in courses where students traditionally encounter more difficulties. Engaging instructors, teaching assistants, and students early on to gather real-time feedback about the impact of the practice will help refine the system before expanding it further.
 
 
