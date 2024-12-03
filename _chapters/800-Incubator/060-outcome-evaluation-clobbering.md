@@ -32,13 +32,13 @@ Then remove this text._
 
 ## Source
 
-_Need to choose a "primary" source for this one_
+Source: João Paulo Barros. 2010. Assessment and grading for CS1: towards a complete toolbox of criteria and techniques. In Proceedings of the 10th Koli Calling International Conference on Computing Education Research (Koli Calling '10). Association for Computing Machinery, New York, NY, USA, 106–111. https://doi.org/10.1145/1930464.1930483
 
 Described by: [Brian Harrington](http://brianharrington.net)
 
 ## References
 
-Source: João Paulo Barros. 2010. Assessment and grading for CS1: towards a complete toolbox of criteria and techniques. In Proceedings of the 10th Koli Calling International Conference on Computing Education Research (Koli Calling '10). Association for Computing Machinery, New York, NY, USA, 106–111. https://doi.org/10.1145/1930464.1930483
+_probably a common one
 
 ## Community Discussion
 
