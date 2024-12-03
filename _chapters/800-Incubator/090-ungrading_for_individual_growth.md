@@ -9,7 +9,7 @@ Ungrading de-emphasizes or eliminates conventional methods of assessment based o
 
 ## Problem
 
-Conventional assessment methods assume that students enter a course with roughly equal levels of preparation and then score and rank students against each other to reward the highest performers and remove the lowest performers. These approaches
+Conventional assessment methods assume that students enter a course with roughly equal levels of preparation and then score and rank students against each other to reward the highest performers and remove the lowest performers.
 
 Standard assessment methods may not be applicable if students enter a course with unequal levels of preparation. Further, a ranking-oriented approach with failure as the punishment raises student anxiety, which harms engagement and shifts students' goals towards meeting grading expectations rather than learning.
 Some educators see traditional grading as reflecting a fundamentally capitalist orientation and would prefer to use an assessment approach that draws upon different values.
