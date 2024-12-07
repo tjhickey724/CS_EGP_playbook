@@ -45,7 +45,7 @@ develop ideas.
 
 This Playbook is a community-driven resource that welcomes contributions.
 All contributions are covered by the CC BY-NC-SA license (see
-(LICENSE)[https://github.com/cs-equitable-grading-practices/playbook/blob/main/LICENSE]).
+[LICENSE](https://github.com/cs-equitable-grading-practices/playbook/blob/main/LICENSE)).
 We  welcome contributions of all of the following types:
 
 - Suggestions for new plays/recipes to include
@@ -53,7 +53,7 @@ We  welcome contributions of all of the following types:
 - Writing entirely new plays
 - Editing/fixing content
 
-Please read (How to Contribute)[https://cs-equitable-grading-practices.github.io/playbook/contributing.html]
+Please read [How to Contribute](https://cs-equitable-grading-practices.github.io/playbook/contributing.html)
 for instructions on how to file an  issue (to suggest new plays or
 corrections) or to create a pull request
 (for new/revised content contributions). Or, when viewing any page in
