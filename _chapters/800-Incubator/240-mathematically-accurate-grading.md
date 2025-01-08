@@ -4,10 +4,6 @@ slug: mathematically-accurate-grading
 ---
 ## Intent
 
-_Concisely, preferably in one clear sentence, describe the aim or goal
-of this play. Basically, a one-sentence summary of what the play achieves.
-Then remove this text._
-
 Remove the inaccuracies inherent in traditional numerical grading, with its 100-point scale and averaging, so that a final grade is more reflective of student learning and achievement.
 
 ## Problem
