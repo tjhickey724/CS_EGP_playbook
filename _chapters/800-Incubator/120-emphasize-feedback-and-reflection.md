@@ -14,7 +14,7 @@ Learning occurs when students change thinking or behavior. Traditional grading t
 
 ## Solution
 
-Incorporate various methods for students to receive quality feedback and various opportunities for students to reflect and evalute their learning. Together, these approaches enable a bidirectional dialogue between educators and students, joining with students to become co-creators of knowledge and scholarly practice.
+Incorporate various methods for students to receive quality feedback and various opportunities for students to reflect and evaluate their learning. Together, these approaches enable a bidirectional dialogue between educators and students, joining with students to become co-creators of knowledge and scholarly practice.
 
 
 ## Applicability
