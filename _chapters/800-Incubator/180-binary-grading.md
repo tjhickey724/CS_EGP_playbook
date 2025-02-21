@@ -4,8 +4,7 @@ slug: binary-grading
 ---
 ## Intent
 
-Utilize aspects of specifications grading,to reduce the frustrations of traditional points-based grading, 
-and create a better learning environment.  
+Utilize aspects of specifications grading, to reduce the frustrations of traditional points-based grading, and create a better learning environment.  
 
 ## Problem
 
