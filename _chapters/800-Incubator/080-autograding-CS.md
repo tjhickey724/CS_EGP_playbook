@@ -22,7 +22,6 @@ The proposed solution may require some investment in terms of time and effort to
 
 This grading system may not be suitable for the grading of more complex coding exercises (beyond first year). 
 
-
 ## How to Implement
 
 The automatic grading system, which operates using Bash scripting, should carry out the following actions:
@@ -35,23 +34,11 @@ b. Including in the solution code constructs that match the topics being assesse
 c. Passing the test cases
 5. Provide feedback for the students. This may happen at different stages of the exercise (if the code does not compile, if the expected code constructs are not included, and/or if the solution fails test cases).
 
-
-## See Also
-
-_List any other related plays here as a bullet list of chapter links.
-Then remove this text._
-
 ## Source
 
 Source: Hegarty-Kelly, Emlyn, and Dr Aidan Mooney. "Analysis of an automatic grading system within first year computer science programming modules." In Proceedings of the 5th Conference on Computing Education Practice, pp. 17-20. 2021. DOI: https://doi.org/10.1145/3437914.3437973
 
 Described by: Giulia Toti, giulia.toti@ubc.ca
-
-## References
-
-_Insert references to publications or web pages describing, evaluating, or
-sharing experiences with this technique. Then remove this text._
-
 
 ## Community Discussion
 
