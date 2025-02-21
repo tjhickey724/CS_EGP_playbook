@@ -1,5 +1,5 @@
 ---
-title: Competency / Equity Hybrid
+title: Competency/Equity Hybrid
 slug: competency-equity-hybrid
 ---
 ## Intent
@@ -11,7 +11,6 @@ Combine aspects of competency-based grading, grading for equity, and universal d
 Traditional grading approaches in collegiate-level computer science courses tend to treat learning as "one size fits all". Typically, these approaches provide a single opportunity to demonstrate proficiency or mastery of a core concept, on a rigid timeline, with limited to no opportunities for makeups. Such a system ignores that students learn at different rates, come to the college classroom with different needs and backgrounds, and may struggle to express their ideas in certain assessment formats (like tests). Traditional systems are thus inaccurate, unfair, and inequitable.
 
 Traditionally-designed assessments have additional side effects. The high-stakes nature of single- or limited-chance assessments create conditions for academic dishonesty, where students prioritize completing an assignment correctly regardless of whether they understand or can explain their work. Such assessments may also foster a fixed mindset in students.
-
 
 ## Solution
 
@@ -45,30 +44,11 @@ Time management, by the instructor / course staff and the students, plays a majo
 + **Student procrastination**. Student assessment attempts are not uniformly distributed across the semester; students tend to put off assessments until the end of the course, and / or generally not space out assessment attempts. In the source article, the author spent an _average_ of 10 hours of week outside of class on assessments, with light weeks at the start of the term and many hours spent in the last week of the term. Instructors may want to consider ways to either incentivize students to spread out their attempts throughout the term, or to place a tight upper bound on the time spent per week on assessments. For instance, the source author limited student assessment attempts to one per day, as one way to manage instructor time and energy.
 + **Instructor time allocation**. While this play requires a significant amount of time for meeting with students, for assessments and for regular office hours, some of that time does come from the time that would otherwise be devoted to grading, and managing grading. Implementers may also want to think about how and when to allow assessments: during general office hours, during specific assessment hours, during lab or class time, etc. 
 
-## See Also
-
-_List any other related plays here as a bullet list of chapter links.
-Then remove this text._
-
 ## Source
 
 Source: Fine, Benjamin T. 2024. Competency and Equity Driven Grading System for Computer Science Curriculum. In _Proceedings of the 2024 Innovation and Technology in Computer Science Education V. 1 (ITiCSE 2024)_, July 8–10, 2024, Milan, Italy. ACM, New York, NY, USA, 7 pages. <https://doi.org/10.1145/3649217.3653564>
 
 Described by: Amy Csizmar Dalal (adalal@carleton.edu)
-
-_Insert a reference to the publication, web page, or source where this play
-came from in the spot above. Be sure to add the source
-to {% include chapter-link.html slug="references" %} as well.
-Also, be sure to include your name and email in the "described by" slot,
-as the person who wrote this description.
-Then remove this text._
-
-
-## References
-
-_Insert references to publications or web pages describing, evaluating, or
-sharing experiences with this technique. Then remove this text._
-
 
 ## Community Discussion
 
