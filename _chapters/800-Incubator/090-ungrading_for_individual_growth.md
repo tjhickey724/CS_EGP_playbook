@@ -6,7 +6,6 @@ slug: ungrading-for-individual-growth
 
 Ungrading de-emphasizes or eliminates conventional methods of assessment based on ranking students against each other and replaces them with more individualized assessments that take into account students' starting levels of preparation and growth during their time in a course.
 
-
 ## Problem
 
 Conventional assessment methods assume that students enter a course with roughly equal levels of preparation and then score and rank students against each other to reward the highest performers and remove the lowest performers.
@@ -21,7 +20,6 @@ There are a variety of plays that may fall under the "ungrading" category. In th
 - At the beginning of the course or unit, administer a pre-test to establish each student's current level of conceptual understanding
 - Based on the results, provide differentiated instruction to individual students to improve their weak points as indentified by the pre-test
 - At the conclusion, administer a post-test and evaluate each individual student's growth relative to the baseline results
-
 
 ## Applicability
 
@@ -49,23 +47,11 @@ Here is a summary of recommendations included in the source:
 
 The authors implemented this strategy in a physics course using the Force Concept Inventory as their assessment instrument. Students grades were determined by scaling the improvement scores to a fixed range, taking into account the distribution of improvement scores across the class. The grading system has to account for topping out: students who are already close to the top score on the assessment have less room to improve and are rewarded for maintaining a high score even if their improvement is small in absolute terms.
 
-## See Also
-
-_List any other related plays here as a bullet list of chapter links.
-Then remove this text._
-
-
 ## Source
 
 Source: Crogman, H. T., Eshun, K. O., Jackson, M., TrebeauCrogman, M. A., Joseph, E., Warner, L. C., & Erenso, D. B. (2023). Ungrading: The Case for Abandoning Institutionalized Assessment Protocols and Improving Pedagogical Strategies. Education Sciences, 13(11), 1091.
 
 Described by: Dan S. Myers, dmyers@rollins.edu 
-
-
-## References
-
-
-
 
 ## Community Discussion
 
