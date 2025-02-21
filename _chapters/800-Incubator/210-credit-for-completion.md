@@ -6,11 +6,9 @@ slug: credit-for-completion
 
 The goal of this play is to reward consistent effort and participation in learning activities, through a "full credit for completion" policy.
 
-
 ## Problem
 
 Traditional grading systems prioritize short-term performance and create anxiety, especially in challenging subjects, which can deter students from engaging fully with learning materials. These systems often emphasize external success markers over meaningful engagement, inadvertently undermining intrinsic motivation and long-term retention.
-
 
 ## Solution
 
@@ -26,23 +24,11 @@ It is open to student abuse if students were to put in low effort just to get th
 
 To implement this play, instructors should identify key activities that promote skill-building, such as problem sets or collaborative discussions. Establish completion-based credit for these tasks, ensuring students know that effort and participation, not perfection, are rewarded. Follow up each activity with detailed feedback sessions where correct answers and conceptual insights are provided. Encourage student reflections on feedback to deepen engagement with the material. For successful implementation, consistency and transparency in the activity criteria are crucial, alongside a supportive classroom environment where students feel safe to explore and make mistakes.
 
-## See Also
-
-_List any other related plays here as a bullet list of chapter links.
-Then remove this text._
-
-
 ## Source
 
 Source: Bail, Frederick T. “Rewarding Practice: An Alternative Grading System.” Improving College and University Teaching 31, no. 3 (1983): 109–13. <http://www.jstor.org/stable/27565562>
 
 Described by: [Dan Garcia](http://www.cs.berkeley.edu/~ddgarcia/)
-
-## References
-
-_Insert references to publications or web pages describing, evaluating, or
-sharing experiences with this technique. Then remove this text._
-
 
 ## Community Discussion
 
