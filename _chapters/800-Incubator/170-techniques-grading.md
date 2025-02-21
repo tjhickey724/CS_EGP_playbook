@@ -4,7 +4,7 @@ slug: techniques-grading
 ---
 ## Intent
 
-Techniques Grading (TG) is a mastery-based grading approach designed for proof-intensive courses, where course objectives are framed as the techniques covered in the course. TG draws on principles from specifications and standards-based grading to create a structured system that supports students in achieving mastery in writing correct mathematical proofs. TG intends to provide a transparent, grading system where grades are assigned based on the product of the students' work and which enables students to demonstrate proficiency in proof techniques through multiple attempts and clear, criteria-driven evaluations.
+Techniques Grading (TG) is a mastery-based grading approach designed for proof-intensive courses, where course objectives are framed as the techniques covered in the course. TG draws on principles from specifications and standards-based grading to create a structured system that supports students in achieving mastery in writing correct mathematical proofs. TG intends to provide a transparent grading system where grades are assigned based on the product of the students' work and which enables students to demonstrate proficiency in proof techniques through multiple attempts and clear, criteria-driven evaluations.
 
 
 ## Problem
