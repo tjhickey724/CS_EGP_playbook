@@ -7,6 +7,8 @@ slug: weighting-formative-vs-summative
 
 If graded activities are to be weighted to maintain grades in the 0-100% continuum, formative and summative assessments need to be weighted properly to reflect growth from different starting points.
 
+When weighted grades are used, there are advantages in setting weights so that formative assessments determine passing and summative assessments determine the grade within the passing range.
+
 ## Problem
 
 A traditional grading system based on a 100-point scale provides 60 ways to fail and 41 ways to pass (based on the assumption that a student needs 60% or better to pass a course).  Unfortunately, when students come from different backgrounds, abilities, and resources, this system can hurt those who start further back.  Additionally, it heavily penalizes students for early failures during the learning process, making it difficult to earn "good" grades.  Overall, this discourages students from continuing to improve and master topics over time if they do not succeed the first time.
