@@ -27,7 +27,7 @@ Here is a summary of the recommendations included in the source:
 
 1. Remove daily effort-graded activities associated with lectures.
 2. Simplify lecture-based activities so that they can be easily completed in class.
-3. For courses that include a project, keep the project as both formative and summative assessment, with a final weight of at least 50\% of the grade. This represents an alternative to Feldman’s recommendation that team-based work should not be graded, but should be considered since projects are a fundamental aspect of many CS courses.
+3. For courses that include a project, keep the project as both formative and summative assessment, with a final weight of at least 50\\% of the grade. This represents an alternative to Feldman’s recommendation that team-based work should not be graded, but should be considered since projects are a fundamental aspect of many CS courses.
 4. Include exams (summative assessments) in all courses, to verify that the students achieved a deep understanding of the course material. For courses with an important project component, include project related topics in the exam.
 5. Eliminate late submission penalties.
 6. Eliminate work for extra credits.
