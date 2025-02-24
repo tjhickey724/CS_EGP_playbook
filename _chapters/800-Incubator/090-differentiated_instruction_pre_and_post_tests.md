@@ -1,5 +1,5 @@
 ---
-title: Ungrading by assessing individual growth
+title: Differentiated instruction using pre- and post-tests
 slug: ungrading-for-individual-growth
 ---
 ## Intent
