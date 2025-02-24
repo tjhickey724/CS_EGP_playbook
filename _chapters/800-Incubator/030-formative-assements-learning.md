@@ -18,13 +18,13 @@ Unfortunately, traditional grading models frequently grade weekly work based on 
 
 ## Solution
 
-There are several elements of grading formative assessments that can make grades more equitable and improve/promote a growth mindset.
+Flexible grading of formative assessments can make grades more equitable and improve/promote a growth mindset.
 
-Number 1 - Flexible Deadlines
+1 - Flexible Deadlines
  
 Traditionally, an initial deadline is announced for all formative assessments.  Students who do not complete an activity prior to the initial deadline may be reminded that they have an outstanding activity.  However, students are not penalized for missing initial deadlines and are actively encouraged to submit missing materials up until a "final" deadline which is often the end of the course but can be earlier for a variety of practical reasons.  However, the timeframe between "initial" and "final" deadline should be long enough to accomodate students who fall behind but make a legitimate effort to catch up.
 
-Number 2 - Multiple Attempts
+2 - Multiple Attempts
 
 Formative assessments are about assessing progress on learning.  When done properly, such assessments should help a student identify lingering gaps in their knowledge or when activities are not completed in the way that is expected.  When such gaps/deficiencies are identified, students are encouraged to revise and resubmit until students get them "right."  
 
