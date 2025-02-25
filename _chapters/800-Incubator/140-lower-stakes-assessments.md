@@ -9,7 +9,7 @@ Mastery or proficiency-based grading and other equitable grading systems can ena
 
 ## Problem
 
-In traditional grading systems that use points-based assessments without a process for allowing students to revise work, exams and quizzes are high-stakes activities. There is also a discincentive for students to take an assessment if they are not sure they can earn their desired amount of points, which can potentially lead to cheating as students weigh the risks versus rewards. Furthermore, because assessments under traditional grading are so high stakes for students, creating and grading these assessments becomes a high-stakes endeavor for educators and assessment designers too. For example, when creating a points-based assessment, significant attention is put toward assigning point values to represent student knowledge, carefully designing rubrics to account for all appropriate forms of partial credit, pre-testing the assessment to ensure all details are polished, versioning exams to ensure security, and examining assessment score distributions after grading for consistency.
+In traditional grading systems that use points-based assessments without a process for allowing students to revise work, exams and quizzes are high-stakes activities. There is also a disincentive for students to take an assessment if they are not sure they can earn their desired amount of points, which can potentially lead to cheating as students weigh the risks versus rewards. Furthermore, because assessments under traditional grading are so high stakes for students, creating and grading these assessments becomes a high-stakes endeavor for educators and assessment designers too. For example, when creating a points-based assessment, significant attention is put toward assigning point values to represent student knowledge, carefully designing rubrics to account for all appropriate forms of partial credit, pre-testing the assessment to ensure all details are polished, versioning exams to ensure security, and examining assessment score distributions after grading for consistency.
 
 
 ## Solution
@@ -19,7 +19,7 @@ More equitable grading systems such as mastery or proficiency-based grading rela
 
 ## Applicability
 
-Lower-stakes assessments depend on revisions or retakes, so having multiple versions of an assessment (or an alternative activity to revise work) may be necessary as students will be eager to discuss assesment results with each other. This discussion is a form of learning, but it necessitates a different activity to revise work other than simply retaking the same assessment again.
+Lower-stakes assessments depend on revisions or retakes, so having multiple versions of an assessment (or an alternative activity to revise work) may be necessary as students will be eager to discuss assessment results with each other. This discussion is a form of learning, but it requires a different activity to revise work other than simply retaking the same assessment again.
 
 
 ## How to Implement
