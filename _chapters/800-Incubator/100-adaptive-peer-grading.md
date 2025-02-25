@@ -5,7 +5,7 @@ slug: adaptive-peer-grading
 
 ## Intent
 
-Peer grading – the process of students grading some of their peer’s assignments – is an effective way to improve student learning, critical thinking, and metacognition while reducing potential faculty bias of students.
+Peer grading – the process of students grading some of their peer’s assignments – is an effective way to improve student learning, critical thinking, and metacognition while reducing potential faculty bias of students. However, relying on student evaluation in assessment can be difficult, as students may not understand the material well wenough to assess the skills of their peers. This play seeks to mitigate this issue by iteratively weighting the assessment of students by their own performance in the course, or the difference between their own evaluations and those of an instructor, with the idea that those who have a strong understanding of the material are able to give the most accurate peer feedback, and their feedback should have increased weight.
 
 ## Problem
 
@@ -13,6 +13,7 @@ Peer grading – the process of students grading some of their peer’s assignme
 2.  Students often get locked into seeing one solution for a problem when multiple solutions are possible.  Seeing, understanding, and "weighing" multiple solutions can be an important part of the learning process.
 3.  Students may not understand how to generate a solution at all.  In these situations, viewing and evaluating a working solution is of benefit.
 4.  Developing critical analysis skills is often as important as learning the underlying content being taught in a course.
+5.  Students just learning material often do not have the capacity to accurately evaluate solutions produced by their peers. 
 
 ## Solution
 
@@ -26,9 +27,11 @@ This benefits the problems above by
 
 #4  When a student considers a solution significantly different from the one they created, they have to apply a critical thinking lens to review how the solution works, why it works, and if the solution is better, worse, or comparable to their own solution.  This allows them to develop comparison skills.
 
+In order to address problem #5, students' evaluations are weighted iteratively over time to attempt to give weight to those who are performing well in the class, or who have given strong feedback in the past.
+
 ## Applicability
 
-The main challenges in peer grading are the reliability of grades assigned by students which can lead to inaccurate and inconsistent feedback.  
+The main challenges in peer grading are the reliability of grades assigned by students which can lead to inaccurate and inconsistent feedback. This play can be used in any course where students are asked to give peer feedback on multiple instances.  
 
 ## How to Implement
 
