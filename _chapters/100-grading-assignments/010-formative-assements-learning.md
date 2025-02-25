@@ -1,6 +1,7 @@
 ---
 title: Formative Assessments are for Learning
 slug: formative-assessments-open
+abstract: Formative assessments are for learning and students should not be punished for getting things wrong while learning.
 ---
 
 ## Intent
