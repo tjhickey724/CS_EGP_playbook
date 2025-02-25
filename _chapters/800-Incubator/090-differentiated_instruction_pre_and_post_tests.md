@@ -1,10 +1,10 @@
 ---
 title: Differentiated instruction using pre- and post-tests
-slug: ungrading-for-individual-growth
+slug: differentiated-instruction-using-pre-and-post-tests
 ---
 ## Intent
 
-Ungrading de-emphasizes or eliminates conventional methods of assessment based on ranking students against each other and replaces them with more individualized assessments that take into account students' starting levels of preparation and growth during their time in a course.
+Ungrading de-emphasizes or eliminates conventional methods of assessment based on ranking students against each other and replaces them with more individualized assessments that take into account students' starting levels of preparation and growth during their time in a course. This play discusses an approach using pre- and post-tests to identify weak points in a students' starting understanding of a topic, which can then serve as a guide to creating an individualized instruction plan.
 
 ## Problem
 
