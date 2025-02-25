@@ -32,14 +32,14 @@ The main challenges in peer grading are the reliability of grades assigned by st
 
 ## How to Implement
 
- The paper referenced below discusses a technology-supported peer grading system that automates this process.  But this can be implemented without such a system.
+ Albano et al., 2017 discusses a technology-supported peer grading system that automates this process.  But this can be implemented without such a system.
  
  1.  Randomly assign each student some number (n) of peer deliverables from the overall class (m) where n<m.  
  2.  If desired, these deliverables can be anonymized prior to distribution to reduce bias in peer evaluations.
  3.  Each student performs a peer-assessment of each of the n deliverables they were assigned using an instructor provided rubric.  If desired, each student will also provide feedback or comments (either free-form, or based on specific prompt questions).
  4.  If m students each conduct n peer-assessments than each of the m deliverables will receive n peer grades.  These n grades are combined to determine the student's grade on the assignment.  Each student is provided access to the n individual grades (and any free-form feedback provided in them) as well as this final, combined grade.
  
- While the straight forward way to combine grades in step #4 above is to average them, the paper referenced below includes several mathematical formulas for weighting various peer-assessments differently.  These techniques include 
+ While the straight forward way to combine grades in step #4 above is to average them, Albano et al.,  2017 includes several mathematical formulas for weighting various peer-assessments differently.  These techniques include 
  a.  Asking students to peer-assess a set of deliverables already graded by the instructor.  A weighting factor is calculated by considering the degree to which the student's assessments match the instructor's assessments.  Those who match closely are given higher weight during future assessments than those who deviate significantly.
  b.  As time progresses, students whose assignment deliverables consistently score highly are given more weight than those whose deliverables consistently score low.  The concept is that students who are performing well understand the material and the assignments and, thus, provide more accurate peer-feedback.  Having said that, this score should be an iterative process which allows students to increase their scoring weight by improving their work as the semester progresses.
 
@@ -53,9 +53,6 @@ Source: Albano, G., Capuano, N., & Pierri, A. (2017). Adaptive Peer Grading and 
 Described by: Ben Schafer (ben.schafer@uni.edu)
 
 ## References
-
-_Insert references to publications or web pages describing, evaluating, or
-sharing experiences with this technique. Then remove this text._
 
 
 ## Community Discussion
