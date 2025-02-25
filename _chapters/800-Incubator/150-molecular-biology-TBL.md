@@ -1,22 +1,22 @@
 ---
-title: Team-Based Learning Exercises for Hands-on Courses in Molecular Biology
+title: Team-Based Learning Exercises for Hands-on Courses
 slug: molecular-biology-TBL
 ---
 ## Intent
 
-Grading strategy for Team Based Learning (TBL) exercises in a Molecular Biology course for Senior Undergraduate Underrepresented Students in Medicine.
+Grading strategy for Team Based Learning (TBL) exercises to improve individual performance and participation in a team.
 
 ## Problem
 
-Team Based Learning (TBL) is an active learning strategy that incentivizes peer-learning among students. At the The Premedical Urban Leaders Summer Enrichment (PULSE) Program, TBL exercises are used to assess students preparation, but a risk exists that students (particularly weaker students) may engage less in individual preparation and participation in the group activities because they know that the group grade will be shared.
+Team Based Learning (TBL) is an active learning strategy that incentivizes peer-learning among students. At the The Premedical Urban Leaders Summer Enrichment (PULSE) Program, TBL exercises are used to assess students preparation, but a risk exists that students (particularly weaker students) may engage less in individual preparation and participation in the team activities because they know that all members will receive the same grade, independently on their contribution.
  
 ## Solution
 
-The instructors of the program decided to change the grading system so that students would have to demonstrate a minimum level of preparation to be allowed to share in the group grade.
+The instructors of the program decided to change the grading system so that students would have to demonstrate a minimum level of preparation to be allowed to share in the team grade.
 
 ## Applicability
 
-The proposed solution, although designed in the context of a Molecular Biology course, appears to be widely applicable to Team Based Learning activities in different fields and different student levels.
+The proposed solution, although designed in the context of a Molecular Biology course for Senior Undergraduate Underrepresented Students in Medicine, appears to be widely applicable to Team Based Learning activities in different fields and different student levels.
 
 
 ## How to Implement
