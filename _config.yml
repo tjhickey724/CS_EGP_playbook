@@ -23,6 +23,7 @@ baseurl_canonical: https://cs-equitable-grading-practices.github.io/playbook
 # Set copyright: false to disable.
 copyright:
   start_year: 2024
+  end_year: 2025
   url: /book.html
 
 # Customize the link favicon in header. Will be {{site.baseurl}}/{{site.favicon_path}}
