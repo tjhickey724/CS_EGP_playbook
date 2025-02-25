@@ -33,13 +33,17 @@ This approach is adaptable to different class sizes, courses, and structures, pr
 ## How to Implement
 
 + Creating a community of feedback: To foster a feedback-driven learning environment, instructors should develop rubrics that clearly define expectations for academic performance. These rubrics empower students to assess their own and peers’ work objectively. Instructors should guide students in providing constructive feedback rather than judgmental comments, using tools like sentence starters and role-playing exercises to refine their feedback skills. Instructors can also help students learn how to sift through the feedback and identify next steps and goals to improve performance – an important soft skill.
-Beyond performance, rubrics can also define essential soft skills, such as such as ‘staying on task’, and ‘collaborating effectively’, making behavioral expectations explicit and transparent. Students and teachers can share examples of different behaviors and identify where those fall in the rubric. Teacher can use the rubric to assess students and provide feedback on their soft skills and students can use the same rubric to access their group’s collective behavior or their own behavior and compare these assessments. This structured approach helps to create a classroom community that has a shared understanding of soft skills, which empowers students, and the relationship between teachers and students are strengthened.
-The source provides an example of a soft-skill rubric on schoolwide Habits of Scholarship from the Windsor Locks Middle School in Connecticut.
+
+  Beyond performance, rubrics can also define essential soft skills, such as such as ‘staying on task’, and ‘collaborating effectively’, making behavioral expectations explicit and transparent. Students and teachers can share examples of different behaviors and identify where those fall in the rubric. Teacher can use the rubric to assess students and provide feedback on their soft skills and students can use the same rubric to access their group’s collective behavior or their own behavior and compare these assessments. This structured approach helps to create a classroom community that has a shared understanding of soft skills, which empowers students, and the relationship between teachers and students are strengthened.
+
+  The source provides an example of a soft-skill rubric on schoolwide Habits of Scholarship from the Windsor Locks Middle School in Connecticut.
 
 + Using student trackers and goal-setting: 
 One way to use this tracker is for students to set performance goals for each criterion in an assignment rubric and compare their targets to their actual performance. This process fosters soft skills such as goal-setting, self-assessment, reflection, and continuous improvement, helping students identify weaknesses and focus on areas for growth.
-A variation of this approach includes tracking homework performance, identifying improvement strategies, recording subsequent results, and reflecting on the impact of their efforts. Teachers can offer guidance on actionable steps students can take before their next assessment, further supporting their progress.
-The sources provides an example Writing Performance Tracker sheet.
+
+  A variation of this approach includes tracking homework performance, identifying improvement strategies, recording subsequent results, and reflecting on the impact of their efforts. Teachers can offer guidance on actionable steps students can take before their next assessment, further supporting their progress.
+
+  The source provides an example Writing Performance Tracker sheet.
 
 
 
