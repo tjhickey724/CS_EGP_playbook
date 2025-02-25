@@ -4,12 +4,12 @@ slug: tokens-for-resubmission
 ---
 ## Intent
 
-A system that supports resubmissions from students with potential limitations (using tokens) can help facilitate student learning.
+A system that supports resubmissions from students with limited attempts (using tokens) can help facilitate student learning.
 
 
 ## Problem
 
-In traditional grading systems that use partial credit, students can sometimes be disincentivized in processing or reviewing instructor feedback because there is no direct grade-related benefit for doing so. This problem can compound in courses where the future assignments build upon skills and competencies from past work as students may continue to demonstrate the same deficiencies as shown previously.
+In traditional grading systems that use partial credit, students can sometimes be disincentivized in processing or reviewing instructor feedback because there is no direct grade-related benefit for doing so. This problem can compound in courses where the future assignments build upon skills and competencies from past work as students may continue to demonstrate the same deficiencies as shown previously. Allowing re-submissions can lead to over-work on the part of instructors, or procrastination on the part of the students if they feel they can always re-submit indefinitely.
 
 
 ## Solution
