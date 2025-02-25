@@ -29,9 +29,9 @@ The automatic grading system, which operates using Bash scripting, should carry 
 2. Use `grep` functionality to identify patterns that match to concepts being assessed. Regular expressions (regex) are used to find patterns in the code that match concepts in the programming language of choice, even if they are not entirely correct (e.g. commas instead of semicolons are used in a Java for loop).
 3. Provide input and expected output for a series of test cases to verify that the student's solution works correctly. Test cases should have enough coverage to guarantee that all requirements are met. For failed test cases, the proposed solution's output and the expected correct output are shown to the student so that they can take steps to fix the issue. 
 4. Assign marks appropriately for: 
-    a. Providing a solution that compiles
-    b. Including in the solution code constructs that match the topics being assessed
-    c. Passing the test cases
+    1. Providing a solution that compiles
+    2. Including in the solution code constructs that match the topics being assessed
+    3. Passing the test cases
 5. Provide feedback for the students. This may happen at different stages of the exercise (if the code does not compile, if the expected code constructs are not included, and/or if the solution fails test cases).
 
 ## Source
