@@ -4,7 +4,7 @@ slug: autograding-CS
 ---
 ## Intent
 
-Guidelines to develop a reliable automated feedback and grading systems for first year Computer Science (CS) courses, going beyond the simple pass/failing of test cases.
+Guidelines to develop a reliable automated feedback and grading systems for simple coding problems (e.g. as used in first-year Computer Science (CS) courses)', going beyond the simple pass/failing of test cases.
 
 ## Problem
 
@@ -16,11 +16,11 @@ This play guides the reader through steps they can take to create a more pedagog
 
 ## Applicability
 
-The proposed automatic grading system could be beneficial to first year CS students by providing them with immediate feedback for their coding exercises. The Bash scripting implementation is flexible and can adapt to different frameworks (the source's authors have used it in the Virtual Programming Lab (VPL), a plugin for the Moodle learning environment, and MULE,  a browser-based Integrated Development Environment (IDE).
+The proposed automatic grading system could be beneficial to first year CS students or other beginner programmers by providing them with immediate feedback for their coding exercises. The Bash scripting implementation is flexible and can adapt to different frameworks (the source's authors have used it in the Virtual Programming Lab (VPL), a plugin for the Moodle learning environment, and MULE, a browser-based Integrated Development Environment (IDE).
 
 The proposed solution may require some investment in terms of time and effort to create the necessary scripts and test cases for each coding exercise. 
 
-This grading system may not be suitable for the grading of more complex coding exercises (beyond first year). 
+This grading system may not be suitable for the grading of more complex coding exercises. 
 
 ## How to Implement
 
