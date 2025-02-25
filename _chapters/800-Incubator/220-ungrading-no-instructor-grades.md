@@ -32,6 +32,8 @@ Implementing student-driven ungrading requires preparation and clear communicati
 
 ## See Also
 
+- Adaptive Peer Grading during Formative Assessment
+- Mastery Grading for Equity
 
 ## Source
 
@@ -41,9 +43,6 @@ Pedagogy of Care. 12. DOI: 10.20533/ijcdse.2042.6364.2021.0550
 Described by: [Dan Garcia](http://www.cs.berkeley.edu/~ddgarcia/)
 
 ## References
-
-_Insert references to publications or web pages describing, evaluating, or
-sharing experiences with this technique. Then remove this text._
 
 
 ## Community Discussion
