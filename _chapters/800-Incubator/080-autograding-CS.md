@@ -4,7 +4,7 @@ slug: autograding-CS
 ---
 ## Intent
 
-Guidelines to develop a reliable automated feedback and grading systems for first year Computer Science (CS) courses, going beyond the simple pass/failing of test cases.
+Guidelines to develop a reliable automated feedback and grading systems for simple coding problems (e.g. as used in first-year Computer Science (CS) courses)', going beyond the simple pass/failing of test cases.
 
 ## Problem
 
@@ -16,11 +16,11 @@ This play guides the reader through steps they can take to create a more pedagog
 
 ## Applicability
 
-The proposed automatic grading system could be beneficial to first year CS students by providing them with immediate feedback for their coding exercises. The Bash scripting implementation is flexible and can adapt to different frameworks (the source's authors have used it in the Virtual Programming Lab (VPL), a plugin for the Moodle learning environment, and MULE,  a browser-based Integrated Development Environment (IDE).
+The proposed automatic grading system could be beneficial to first year CS students or other beginner programmers by providing them with immediate feedback for their coding exercises. The Bash scripting implementation is flexible and can adapt to different frameworks (the source's authors have used it in the Virtual Programming Lab (VPL), a plugin for the Moodle learning environment, and MULE, a browser-based Integrated Development Environment (IDE).
 
 The proposed solution may require some investment in terms of time and effort to create the necessary scripts and test cases for each coding exercise. 
 
-This grading system may not be suitable for the grading of more complex coding exercises (beyond first year). 
+This grading system may not be suitable for the grading of more complex coding exercises. 
 
 ## How to Implement
 
@@ -29,9 +29,9 @@ The automatic grading system, which operates using Bash scripting, should carry 
 2. Use `grep` functionality to identify patterns that match to concepts being assessed. Regular expressions (regex) are used to find patterns in the code that match concepts in the programming language of choice, even if they are not entirely correct (e.g. commas instead of semicolons are used in a Java for loop).
 3. Provide input and expected output for a series of test cases to verify that the student's solution works correctly. Test cases should have enough coverage to guarantee that all requirements are met. For failed test cases, the proposed solution's output and the expected correct output are shown to the student so that they can take steps to fix the issue. 
 4. Assign marks appropriately for: 
-a. Providing a solution that compiles
-b. Including in the solution code constructs that match the topics being assessed
-c. Passing the test cases
+    1. Providing a solution that compiles
+    2. Including in the solution code constructs that match the topics being assessed
+    3. Passing the test cases
 5. Provide feedback for the students. This may happen at different stages of the exercise (if the code does not compile, if the expected code constructs are not included, and/or if the solution fails test cases).
 
 ## Source

@@ -4,12 +4,12 @@ slug: tokens-for-resubmission
 ---
 ## Intent
 
-A system that supports resubmissions from students with potential limitations (using tokens) can help facilitate student learning.
+A system that supports resubmissions from students with limited attempts (using tokens) can help facilitate student learning.
 
 
 ## Problem
 
-In traditional grading systems that use partial credit, students can sometimes be disincentivized in processing or reviewing instructor feedback because there is no direct grade-related benefit for doing so. This problem can compound in courses where the future assignments build upon skills and competencies from past work as students may continue to demonstrate the same deficiencies as shown previously.
+In traditional grading systems that use partial credit, students can sometimes be disincentivized in processing or reviewing instructor feedback because there is no direct grade-related benefit for doing so. This problem can compound in courses where the future assignments build upon skills and competencies from past work as students may continue to demonstrate the same deficiencies as shown previously. Allowing re-submissions can lead to over-work on the part of instructors, or procrastination on the part of the students if they feel they can always re-submit indefinitely.
 
 
 ## Solution
@@ -26,7 +26,7 @@ Resubmission can be used with any assignment where there is value to the process
 
 To develop a plan for implementation, first the instructor must decide which assignments are eligible for revision and resubmission. Not all assignments need to be included, and in many cases only a subset of assignments that best lend themselves to resubmission are selected. When allowing resubmissions, it is generally good practice to provide detailed feedback to the students so that they know where they need to focus their efforts to address deficiencies in their work.
 
-To limit the frequency of resubmissions, both in terms of instructor grding time and potential abuse by students resubmitting minor changes regularly, a token system can be implemented to limit overall resubmissions. This can be time-based (one expirable token per week) or quantity-based (four tokens for the semester). In some cases students can earn tokens by completing tasks or receive additional tokens as bonuses based on pre-set criteria. Student tokens can be tracked in the course LMS, or via some other accounting mechanism that makes sense for the course.
+To limit the required instructor grading time and potential abuse by students frequently resubmitting minor changes, a token system can be implemented to cap the number of resubmissions. This can be time-based (one expirable token per week) or quantity-based (four tokens for the semester). In some cases students can earn tokens by completing tasks or receive additional tokens as bonuses based on pre-set criteria. Student tokens can be tracked in the course LMS, or via some other accounting mechanism that works for the course.
 
 
 ## See Also
