@@ -74,22 +74,13 @@ Then remove this text._
 ## Source
 
 Source: ["M.A.P. — Mastery Assessment Pedagogy for Learning Computer Science"](https://www.proquest.com/openview/908ec01bbc9600eb77f75795e9966bd5/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y)
-
+Computer Science PhD Dissertation by Ella Tuson, Brandeis University August 2024.
 
 Described by: Tim Hickey and Ella Tuson
 
-_Insert a reference to the publication, web page, or source where this play
-came from in the spot above. Be sure to add the source
-to {% include chapter-link.html slug="references" %} as well.
-Also, be sure to include your name and email in the "described by" slot,
-as the person who wrote this description.
-Then remove this text._
 
 
 ## References
-
-_Insert references to publications or web pages describing, evaluating, or
-sharing experiences with this technique. Then remove this text._
 
 * The Mastery Learning App,
 Timothy Hickey & Ella Tuson
