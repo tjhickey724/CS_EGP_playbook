@@ -3,7 +3,7 @@ title: Mastery Assessment Pedagogy
 slug: mastery_assessment_pedagogy
 ---
 ## Intent
-Elegantly combine backward design with mastery learning for skill-based courses.
+Elegantly combine backward design with mastery learning and grading for equity for skill-based courses.
 
 
 
