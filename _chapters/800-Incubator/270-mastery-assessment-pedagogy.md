@@ -92,11 +92,13 @@ _Insert references to publications or web pages describing, evaluating, or
 sharing experiences with this technique. Then remove this text._
 
 * The Mastery Learning App,
-Ella Tuson & Timothy Hickey
+Timothy Hickey & Ella Tuson
 SIGCSE 2025
+https://doi.org/10.1145/3641555.3705053
 * Grading for Equity in a Hyflex Compiler Design Course,
 Fatima Abu Deeb & Ella Tuson & Timothy Hickey
 SIGCSE 2025
+https://doi.org/10.1145/3641554.3701835
 * Mastery Learning with Specs Grading for Programming Courses
 Ella Tuson and Tim Hickey
 SIGCSE 2023
