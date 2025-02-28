@@ -73,9 +73,10 @@ Then remove this text._
 
 ## Source
 
-Source: _reference_
+Source: ["M.A.P. — Mastery Assessment Pedagogy for Learning Computer Science"](https://www.proquest.com/openview/908ec01bbc9600eb77f75795e9966bd5/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y)
 
-Described by: _author_
+
+Described by: Tim Hickey and Ella Tuson
 
 _Insert a reference to the publication, web page, or source where this play
 came from in the spot above. Be sure to add the source
@@ -89,6 +90,21 @@ Then remove this text._
 
 _Insert references to publications or web pages describing, evaluating, or
 sharing experiences with this technique. Then remove this text._
+
+* The Mastery Learning App,
+Ella Tuson & Timothy Hickey
+SIGCSE 2025
+* Grading for Equity in a Hyflex Compiler Design Course,
+Fatima Abu Deeb & Ella Tuson & Timothy Hickey
+SIGCSE 2025
+* Mastery Learning with Specs Grading for Programming Courses
+Ella Tuson and Tim Hickey
+SIGCSE 2023
+https://doi.org/10.1145/3545945.3569853
+* Mastery Learning and Specs Grading in Discrete Math.
+Ella Tuson and Tim Hickey
+ITiCSE '22. https://doi.org/10.1145/3502718.3524766
+
 
 
 ## Community Discussion
